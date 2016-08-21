@@ -1,0 +1,14 @@
+layout_spectrum: 0.40223974105902016
+typography_spectrum: 0.5321714177262038
+color:
+  brandStrength: 0.0551196972373873
+  lightness: 0.8652931284159422
+  saturation: 0.016296108020469546
+  rhythmicContrast: 0.7867927465122193
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: bibboedit
